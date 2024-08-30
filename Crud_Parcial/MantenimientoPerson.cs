@@ -76,22 +76,6 @@ namespace Crud_Parcial
             textBox7.Text = perso.Phone;
         }
 
-        private void btnModificar_Click(object sender, EventArgs e)
-        {
-            var update = ObtenerNuevoCliente();
-            int actulizar = persona.ActualizarPersonal(update, id_);
-
-            if (actulizar > 0)
-            {
-                MessageBox.Show($"Se ha actualizado de forma EXITOSA", "Actulizacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                this.Close();
-            }
-            else
-            {
-                MessageBox.Show($"ERROR", "Actulizacion", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-        }
-
         private void btnEnviarDatos_Click_1(object sender, EventArgs e)
         {
             var resultado = 0;
@@ -118,6 +102,22 @@ namespace Crud_Parcial
             else
             {
                 MessageBox.Show("Completa los campos vacios", "Añadir Personal", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+
+        private void btnModificar_Click_1(object sender, EventArgs e)
+        {
+            var update = ObtenerNuevoCliente();
+            int actulizar = persona.ActualizarPersonal(update, id_);
+
+            if (actulizar > 0)
+            {
+                MessageBox.Show($"Se ha actualizado de forma EXITOSA", "Actulizacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                this.Close();
+            }
+            else
+            {
+                MessageBox.Show($"ERROR", "Actulizacion", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
     }

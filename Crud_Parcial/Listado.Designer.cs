@@ -68,6 +68,7 @@
             this.tbFiltro.Name = "tbFiltro";
             this.tbFiltro.Size = new System.Drawing.Size(123, 20);
             this.tbFiltro.TabIndex = 9;
+            this.tbFiltro.TextChanged += new System.EventHandler(this.tbFiltro_TextChanged_1);
             // 
             // label1
             // 
@@ -101,6 +102,7 @@
             this.TablaPersonal.Name = "TablaPersonal";
             this.TablaPersonal.Size = new System.Drawing.Size(755, 326);
             this.TablaPersonal.TabIndex = 7;
+            this.TablaPersonal.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.TablaPersonal_CellClick_1);
             // 
             // Delete
             // 
