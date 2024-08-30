@@ -16,5 +16,17 @@ namespace Crud_Parcial
         {
             InitializeComponent();
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Listado link = new Listado();
+            link.ShowDialog();
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            MantenimientoPerson persona = new MantenimientoPerson();
+            persona.ShowDialog();
+        }
     }
 }

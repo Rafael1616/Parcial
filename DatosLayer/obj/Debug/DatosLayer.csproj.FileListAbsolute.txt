@@ -1,0 +1,6 @@
+C:\Users\MINEDUCYT\Desktop\CRUD Parcial\Crud_Parcial\DatosLayer\bin\Debug\DatosLayer.dll
+C:\Users\MINEDUCYT\Desktop\CRUD Parcial\Crud_Parcial\DatosLayer\bin\Debug\DatosLayer.pdb
+C:\Users\MINEDUCYT\Desktop\CRUD Parcial\Crud_Parcial\DatosLayer\obj\Debug\DatosLayer.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\CRUD Parcial\Crud_Parcial\DatosLayer\obj\Debug\DatosLayer.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\CRUD Parcial\Crud_Parcial\DatosLayer\obj\Debug\DatosLayer.dll
+C:\Users\MINEDUCYT\Desktop\CRUD Parcial\Crud_Parcial\DatosLayer\obj\Debug\DatosLayer.pdb

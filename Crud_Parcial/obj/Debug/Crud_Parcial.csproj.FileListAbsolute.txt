@@ -10,3 +10,6 @@ C:\Users\MINEDUCYT\Desktop\CRUD Parcial\Crud_Parcial\Crud_Parcial\obj\Debug\Crud
 C:\Users\MINEDUCYT\Desktop\CRUD Parcial\Crud_Parcial\Crud_Parcial\obj\Debug\Crud_Parcial.csproj.CoreCompileInputs.cache
 C:\Users\MINEDUCYT\Desktop\CRUD Parcial\Crud_Parcial\Crud_Parcial\obj\Debug\Crud_Parcial.exe
 C:\Users\MINEDUCYT\Desktop\CRUD Parcial\Crud_Parcial\Crud_Parcial\obj\Debug\Crud_Parcial.pdb
+C:\Users\MINEDUCYT\Desktop\CRUD Parcial\Crud_Parcial\Crud_Parcial\bin\Debug\DatosLayer.dll
+C:\Users\MINEDUCYT\Desktop\CRUD Parcial\Crud_Parcial\Crud_Parcial\bin\Debug\DatosLayer.pdb
+C:\Users\MINEDUCYT\Desktop\CRUD Parcial\Crud_Parcial\Crud_Parcial\obj\Debug\Crud_Par.A4AA3849.Up2Date

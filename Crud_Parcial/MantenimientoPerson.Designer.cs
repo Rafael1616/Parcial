@@ -53,7 +53,7 @@
             this.btnModificar.BackColor = System.Drawing.Color.DarkGoldenrod;
             this.btnModificar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnModificar.ForeColor = System.Drawing.Color.White;
-            this.btnModificar.Location = new System.Drawing.Point(219, 438);
+            this.btnModificar.Location = new System.Drawing.Point(225, 438);
             this.btnModificar.Name = "btnModificar";
             this.btnModificar.Size = new System.Drawing.Size(97, 44);
             this.btnModificar.TabIndex = 55;
@@ -163,6 +163,7 @@
             this.btnEnviarDatos.TabIndex = 44;
             this.btnEnviarDatos.Text = "Aceptar";
             this.btnEnviarDatos.UseVisualStyleBackColor = false;
+            this.btnEnviarDatos.Click += new System.EventHandler(this.btnEnviarDatos_Click_1);
             // 
             // text3
             // 
