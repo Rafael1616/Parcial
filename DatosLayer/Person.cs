@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 
 namespace DatosLayer
 {
-    public class Person
+    public class Person  // Definir una clase pública llamada 'Person'. Esta clase es un modelo de datos que representa a una persona, específicamente un proveedor en este contexto.
     {
+        // Define una propiedad pública de tipo entero llamada 'SupplierID' con un método 'get' y 'set'.
         public int SupplierID { get; set; }
+
+        // Definer una propiedad pública de tipo cadena con un método 'get' y 'set' para cada campo.
         public string CompanyName { get; set; }
         public string ContactName { get; set; }
         public string ContactTitle { get; set; }
